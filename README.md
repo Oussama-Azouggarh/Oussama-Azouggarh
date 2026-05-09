@@ -7,7 +7,7 @@ Recently graduated, I am passionate about designing robust backend architectures
 ### 🚀 What I do
 
 * 🔭 **Current Project:** Developing the frontend of a Hospital ERP using React.
-* 🌱 **Continuous Learning:** I am currently perfecting my mastery of AI-assisted development tools (preparing for the GitHub Copilot certification) and adopting a "learning by doing" approach to frontend frameworks like Angular and React.
+* 🌱 **Continuous Learning:** I am currently perfecting my mastery of AI-assisted development tools (preparing for the GitHub Copilot certification) and adopting a "learning by doing" approach to frontend frameworks like React.
 * 💼 **Recent Experience:** Full-Stack Developer and Machine Learning Engineer at *Advanced AI*.
 
 ### 💻 Tech Stack & Tools
