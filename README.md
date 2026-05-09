@@ -19,4 +19,4 @@ Recently graduated, I am passionate about designing robust backend architectures
 ### 📫 How to reach me
 
 * **LinkedIn:** [Oussama Azouggarh]([your-linkedin-link-here](https://www.linkedin.com/in/oussama-azouggarh0446/))
-* **Email:** [Send me an email](oussama.azouggarh04@gmail.com)
+* **Email:** [oussama.azouggarh04@gmail.com](oussama.azouggarh04@gmail.com)
